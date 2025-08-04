@@ -30,15 +30,3 @@ class DataResearcher:
 
     @staticmethod
     def get_longest_3_tweets(df):
-
-
-
-
-
-
-
-
-
-
-
-
